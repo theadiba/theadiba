@@ -1,6 +1,9 @@
 # 💫 About Me:
 Adiba Naaz is an MCA student at GH Raisoni University<br> with a strong interest in DevOps and Cloud Computing. <br>I has hands-on foundations in Linux, Git/GitHub, <br>and cloud platforms like Azure and AWS,<br> along with exposure to Docker, Kubernetes, CI/CD,<br> and scripting in Bash and Python.<br> A quick learner with strong communication and presentation skills.
 
+<p align="center">
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVzYjN6amk3dzZjbzlkNjFlOGszNTZvNzZleWZjNG1zcXUzOGs2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZSZTGUtpQr0u7cfveB/giphy.gif"width="360"/>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theadibanaaz1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/theadibanaaz/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Welcome coders) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theadibanaaz@gmail.com) 
